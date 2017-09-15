@@ -1,0 +1,23 @@
+Verification Code: JHQRX-7KXMR-FGT26-M2XGT-739RZ
+
+npm -v 
+npm install choco -g
+
+//Update node
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
+
+//Init the project
+npm init
+
+//Install botbuilder
+https://github.com/Microsoft/BotFramework-Emulator/releases/tag/v3.5.31
+npm install botbuilder --save
+
+// Install Restify 
+// Help create API REST with node.js
+npm install restify --save
+
+// Install nodemon
+npm install -g nodemon	
